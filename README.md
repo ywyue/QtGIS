@@ -13,11 +13,11 @@ Here is the workflow of the system.<br/>
 
 Here are the UML diagrams of the system.<br/>
 * <p align="center">
-  <img src="https://github.com/ywyue/QtGIS/figures/Class for reading E00.png" alt="Photo" style="width: 400px;"/> 
+  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_reading_E00.png" alt="Photo" style="width: 400px;"/> 
   </p>
 * <p align="center">
-  <img src="https://github.com/ywyue/QtGIS/figures/Class for visulization.png.png" alt="Photo" style="width: 400px;"/> 
+  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_visulization.png.png" alt="Photo" style="width: 400px;"/> 
   </p>
 * <p align="center">
-  <img src="https://github.com/ywyue/QtGIS/figures/Class for shortest path analysis.png" alt="Photo" style="width: 400px;"/> 
+  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_shortest_path_analysis.png" alt="Photo" style="width: 400px;"/> 
   </p>
