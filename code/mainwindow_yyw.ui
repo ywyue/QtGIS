@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow_yyw</class>
+ <widget class="QMainWindow" name="MainWindow_yyw">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow_yyw</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuOpenFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="action_Select_E00"/>
+    <addaction name="action_Close_E00"/>
+   </widget>
+   <widget class="QMenu" name="menuSearch">
+    <property name="title">
+     <string>Search</string>
+    </property>
+    <addaction name="action_By_ID"/>
+    <addaction name="action_By_Click"/>
+   </widget>
+   <addaction name="menuOpenFile"/>
+   <addaction name="menuSearch"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="action_Select_E00">
+   <property name="text">
+    <string>Select E00</string>
+   </property>
+  </action>
+  <action name="action_By_ID">
+   <property name="text">
+    <string>By ID</string>
+   </property>
+  </action>
+  <action name="action_By_Click">
+   <property name="text">
+    <string>By Clicking</string>
+   </property>
+  </action>
+  <action name="action_Close_E00">
+   <property name="text">
+    <string>Close E00</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
