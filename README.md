@@ -12,14 +12,15 @@ Here is the workflow of the system.<br/>
 </p>
 
 Here are the UML diagrams of the system.<br/>
-* <p align="center">
+* UML for reading E00
+  <p align="center">
   <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_reading_E00.png" alt="Photo" style="width: 200px;"/> 
   </p>
 
-* <p align="center">
+* UML for visulization
+  <p align="center">
   <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_visulization.png" alt="Photo" style="width: 200px;"/> 
   </p>
 
-* <p align="center">
-  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for shortest_path_analysis.png" alt="Photo" style="width: 200px;"/> 
-  </p>
+* UML for shortest path analysis
+  ![UML for shortest path analysis](/figures/Class_for_shortest_path_analysis.png){:width="100px"}
