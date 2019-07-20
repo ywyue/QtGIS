@@ -18,9 +18,7 @@ Here are the UML diagrams of the system.<br/>
   </p>
 
 * UML for visulization
-  <p align="center">
-  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_visulization.png" alt="Photo" style="width: 200px;"/> 
-  </p>
+  <img src="https://github.com/ywyue/QtGIS/blob/master/figures/Class_for_visulization.png" width="100" align=center />
 
 * UML for shortest path analysis
-  ![UML for shortest path analysis](/figures/Class_for_shortest_path_analysis.png){:width="100px"}
+  ![UML for shortest path analysis](/figures/Class_for_shortest_path_analysis.png){:height="100px" width="100px"}
